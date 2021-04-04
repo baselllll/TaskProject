@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/aboutdev",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AboutDev\\Providers\\AboutDevServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AboutDev\\": ""
+        }
+    }
+}

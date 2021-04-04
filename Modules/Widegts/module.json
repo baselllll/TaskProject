@@ -1,0 +1,13 @@
+{
+    "name": "Widegts",
+    "alias": "widegts",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Widegts\\Providers\\WidegtsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

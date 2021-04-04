@@ -1,0 +1,13 @@
+{
+    "name": "AboutDev",
+    "alias": "aboutdev",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AboutDev\\Providers\\AboutDevServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
